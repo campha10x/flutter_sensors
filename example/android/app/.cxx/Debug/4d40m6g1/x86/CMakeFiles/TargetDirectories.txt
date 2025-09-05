@@ -1,0 +1,2 @@
+/Users/duypx/flutter_sensors/example/android/app/.cxx/Debug/4d40m6g1/x86/CMakeFiles/edit_cache.dir
+/Users/duypx/flutter_sensors/example/android/app/.cxx/Debug/4d40m6g1/x86/CMakeFiles/rebuild_cache.dir
